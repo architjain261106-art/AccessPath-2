@@ -1,0 +1,6 @@
+{
+  "name": "DLF Mall of India - 3D Navigation & YOLO Hazard Verification",
+  "description": "Interactive 3D indoor mall navigation with real-time WebSocket live path streaming, instant admin blockage rerouting, YOLO hazard pre-screening, and dynamic multi-level accessibility routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
